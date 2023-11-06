@@ -1,0 +1,10 @@
+<?php
+// Write your code below:
+  $silly = "kampus pahlawan";
+
+  $biography = "\nMemulai kuliah pada tahun 2022.";
+
+  $favorite_food = "\n" . "tur" . "duck" . "en";
+  
+
+

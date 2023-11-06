@@ -1,0 +1,17 @@
+<?php
+	$my_num = 32;
+
+	$answer = $my_num;
+
+	$answer += 6;
+
+	$answer *= 8;
+
+	$answer -= 9;
+
+	$answer /= 21;
+
+	$answer -= $my_num;
+
+	echo $answer;
+  

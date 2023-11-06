@@ -1,0 +1,20 @@
+<?php
+  echo "saya pergi mancing!";
+
+  $sentence = "\nSaya pergi mancing di danau";
+
+  echo $sentence;
+
+// Write your code below:
+
+  $sentence .= ", ikan paus";
+  
+   echo $sentence;
+   
+   $sentence .= ", carrots";
+
+   echo $sentence;
+
+
+
+

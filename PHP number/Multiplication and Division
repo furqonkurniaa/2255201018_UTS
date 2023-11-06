@@ -1,0 +1,12 @@
+<?php
+// Write your code below:
+  $num_languages = 2;
+
+	$months = 4;
+
+	$days = $months * 13;
+
+	$days_per_language = $days / $num_languages;
+	
+	echo $days_per_language;
+

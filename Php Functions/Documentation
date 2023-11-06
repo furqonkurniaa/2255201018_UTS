@@ -1,0 +1,10 @@
+<?php
+namespace Codecademy;
+
+$j = 29;
+$a = "Aku Jawa dan Aku Bangga!";
+$w = STR_PAD_BOTH;
+$aa = "*~*";
+
+// Write your code below:
+echo str_pad($a, $j, $aa, $w);

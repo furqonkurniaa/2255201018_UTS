@@ -1,0 +1,7 @@
+<?php
+// Write your code below:
+  $last_month = 7105.43;
+
+  $this_month = 1945.55;
+
+  echo $last_month - $this_month;

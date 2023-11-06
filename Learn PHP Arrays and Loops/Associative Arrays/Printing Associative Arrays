@@ -1,0 +1,12 @@
+<?php
+namespace Codecademy;
+
+// Write your code below:
+$september_hits = ["The Sixth Sense" => 7777,
+"Stigmata" => 22222,
+"Blue Streak" => 111111,
+"Double Jeopardy" => 666666];
+
+echo implode(", ", $september_hits);
+
+print_r($september_hits);

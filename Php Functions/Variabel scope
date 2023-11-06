@@ -1,0 +1,12 @@
+<?php
+
+$dinosaurus = "Brontosaurus";
+$jenis = "Hewan Purba";
+
+function generateLessonName($trex)
+{
+  global $dinosaurus;
+  return $dinosaurus . ": " . $trex;
+}
+
+echo generateLessonName($jenis);
